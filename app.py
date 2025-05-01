@@ -1,4 +1,9 @@
 import streamlit as st
+import nltk
+
+# Descargar los recursos necesarios de NLTK
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 # 👇 Esto debe ir aquí, antes de cualquier otra llamada de Streamlit
 st.set_page_config(page_title="VocabMaster", layout="centered")
