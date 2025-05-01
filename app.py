@@ -11,7 +11,7 @@ st.set_page_config(page_title="VocabMaster", layout="centered")
 # Luego importa tus módulos
 from views import buscar_palabra, repaso_buscadas, repaso_aprendidas, consolidadas
 
-st.title("📘 VocabMaster")
+st.title("📘 MasterLex")
 
 # Menú lateral
 opcion = st.sidebar.radio(
