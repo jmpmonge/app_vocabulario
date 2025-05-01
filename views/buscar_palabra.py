@@ -41,9 +41,9 @@ def obtener_significados_con_sinonimos(palabra, tipo_pos):
 
 
 def mostrar():
-    st.subheader("🔍 Buscar palabra")
+    st.subheader("🔍 Search a word")
 
-    palabra_usuario = st.text_input("Escribe una palabra en inglés o español:")
+    palabra_usuario = st.text_input("Write a word in english:")
 
     if palabra_usuario:
         palabra_en = palabra_usuario.strip()
