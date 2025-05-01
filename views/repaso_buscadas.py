@@ -64,10 +64,11 @@ def mostrar():
                         guardar_base(base)
                         st.rerun()
 
-
+"""
         with cols[-1]:
             if st.button("[+]", key=f"{palabra}_add"):
                 datos["repaso"].append("")
                 guardar_base(base)
                 st.rerun()
 
+"""
