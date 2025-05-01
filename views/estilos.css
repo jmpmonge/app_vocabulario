@@ -1,0 +1,132 @@
+/* estilos.css */
+
+/* Fondo general */
+.stApp {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+}
+
+/* Entradas de texto */
+input[type="text"], textarea {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #555555;
+}
+
+input[type="text"]:focus {
+    border-color: #FFD700;
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #FFD700;
+}
+
+/* Sección Definition */
+.definition-label {
+    color: #73A9FF;
+    font-weight: bold;
+}
+
+/* Sección Synonyms */
+.synonyms-label {
+    color: #66C2A5;
+    font-weight: bold;
+}
+
+/* Sección Traducción */
+.translation-label {
+    color: #FFB347;
+    font-weight: bold;
+}
+
+/* Caja de traducción */
+.translation-box {
+    border: 1px solid #FFB347;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #2B2B2B;
+}
+
+/* Mensaje de éxito */
+.success-box {
+    background-color: #2E7D32;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Botones */
+button {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #555555;
+}
+
+button:hover {
+    background-color: #444444;
+}
+
+.section-title {
+    font-size: 26px;
+    color: #FFD700;
+    margin-bottom: 15px;
+}
+
+.palabra-principal {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+.pos-nivel {
+    font-size: 16px;
+    color: #AAAAAA;
+}
+
+.definition-label,
+.synonyms-label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.definition-label {
+    color: #73A9FF;
+}
+
+.synonyms-label {
+    color: #66C2A5;
+}
+
+.definition-text,
+.synonyms-text {
+    font-size: 16px;
+    color: #DDDDDD;
+    margin-top: 5px;
+}
+
+.translation-label {
+    font-weight: bold;
+    color: #FFB347;
+    font-size: 18px;
+}
+
+.translation-box {
+    background-color: #2B2B2B;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #FFB347;
+    margin-top: 10px;
+}
+
+.success-box {
+    background-color: #2E7D32;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+    font-weight: bold;
+}

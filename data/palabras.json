@@ -1,0 +1,716 @@
+{
+    "HELLO": {
+        "original": "HELLO",
+        "nivel": "B1",
+        "sinonimos_en": [
+            "hi",
+            "howdy",
+            "hullo",
+            "how-do-you-do"
+        ],
+        "definicion_en": "\"Hello!\" or an equivalent greeting.",
+        "definicion_es": "\"\u00a1Hola!\" o un saludo equivalente.",
+        "estado": "consolidada",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "HI": {
+        "original": "HI",
+        "nivel": "B1",
+        "sinonimos_en": [
+            "hello",
+            "howdy",
+            "hullo",
+            "how-do-you-do"
+        ],
+        "definicion_en": "The word \"hi\" used as a greeting.",
+        "definicion_es": "La palabra \"hola\" utilizada como saludo.",
+        "estado": "consolidada",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "BODY": {
+        "original": "BODY",
+        "nivel": "B1",
+        "sinonimos_en": [
+            "trunk",
+            "consistency",
+            "torso",
+            "personify",
+            "consistence"
+        ],
+        "definicion_en": "Physical frame.",
+        "definicion_es": "Marco f\u00edsico.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "",
+            "\u2713"
+        ]
+    },
+    "Nobody": {
+        "original": "Nobody",
+        "nivel": "B1",
+        "sinonimos_en": [
+            "cipher",
+            "cypher",
+            "nonentity"
+        ],
+        "definicion_en": "Someone who is not important or well-known.",
+        "definicion_es": "Alguien que no es importante o conocido.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "hi": {
+        "original": "hi",
+        "nivel": "B1",
+        "definicion_en": "The word \"hi\" used as a greeting.",
+        "definicion_es": "La palabra \"hola\" utilizada como saludo.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "by": {
+        "original": "by",
+        "nivel": "B1",
+        "definicion_en": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+        "definicion_es": "Insecto volador, del clado Anthophila dentro de la superfamilia de los himen\u00f3pteros Apoidea, conocido por sus sociedades organizadas (aunque s\u00f3lo una minor\u00eda las tiene), por recolectar polen y (en algunas especies) producir cera y miel.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "apple": {
+        "original": "apple",
+        "nivel": "B1",
+        "definicion_en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+        "definicion_es": "Fruto com\u00fan, redondo, producido por el \u00e1rbol Malus domestica, cultivado en climas templados.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "by the way": {
+        "original": "by the way",
+        "nivel": "B1",
+        "definicion_en": "Irrelevantly, off-topic.",
+        "definicion_es": "Irrelevante, off-topic.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "take off": {
+        "original": "take off",
+        "nivel": "B1",
+        "definicion_en": "To remove.",
+        "definicion_es": "Para quitar.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Long": {
+        "original": "Long",
+        "nivel": "B1",
+        "definicion_en": "A long vowel.",
+        "definicion_es": "Una vocal larga.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "long": {
+        "original": "long",
+        "nivel": "B1",
+        "definicion_en": "A long vowel.",
+        "definicion_es": "Una vocal larga.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "old": {
+        "original": "old",
+        "nivel": "B1",
+        "definicion_en": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group.",
+        "definicion_es": "(con el, s\u00f3lo plural invariable) Personas que son viejas; seres viejos; la generaci\u00f3n mayor, tomada como grupo.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "water": {
+        "original": "water",
+        "nivel": "B1",
+        "definicion_en": "A substance (of molecular formula H\u2082O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+        "definicion_es": "Sustancia (de f\u00f3rmula molecular H\u2082O) que se encuentra a temperatura y presi\u00f3n ambiente como un l\u00edquido transparente; est\u00e1 presente de forma natural en forma de lluvia y se encuentra en r\u00edos, lagos y mares; su forma s\u00f3lida es el hielo y su forma gaseosa es el vapor.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "watermelon": {
+        "original": "watermelon",
+        "nivel": "\u2014",
+        "definicion_en": "A plant of the species Citrullus lanatus, bearing a melon-like fruit.",
+        "definicion_es": "Planta de la especie Citrullus lanatus, que da un fruto parecido al mel\u00f3n.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "lol": {
+        "original": "lol",
+        "nivel": "\u2014",
+        "definicion_en": "(British commonwealth) Loyal Orange Lodge, a prefix given to all branches of the Loyal Orange Order. For example, LOL 1 is Portadown branch.",
+        "definicion_es": "(Commonwealth brit\u00e1nica) Loyal Orange Lodge, prefijo dado a todas las ramas de la Loyal Orange Order. Por ejemplo, LOL 1 es la rama de Portadown.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "APPLE": {
+        "original": "APPLE",
+        "nivel": "A1",
+        "definicion_en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+        "definicion_es": "Fruto com\u00fan, redondo, producido por el \u00e1rbol Malus domestica, cultivado en climas templados.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "BUTTON": {
+        "original": "BUTTON",
+        "nivel": "A2",
+        "definicion_en": "One who adjusts, especially for the insurance industry's employment title \"loss adjuster\" (or \"claims adjuster\" in the United States).",
+        "definicion_es": "El que ajusta, especialmente para el t\u00edtulo de empleo de la industria de seguros \"ajustador de p\u00e9rdidas\" (o \"ajustador de reclamaciones\" en los Estados Unidos).",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "button": {
+        "original": "button",
+        "nivel": "A2",
+        "definicion_en": "One who adjusts, especially for the insurance industry's employment title \"loss adjuster\" (or \"claims adjuster\" in the United States).",
+        "definicion_es": "El que ajusta, especialmente para el t\u00edtulo de empleo de la industria de seguros \"ajustador de p\u00e9rdidas\" (o \"ajustador de reclamaciones\" en los Estados Unidos).",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "rhythm": {
+        "original": "rhythm",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "the basic rhythmic unit in a piece of music",
+        "definicion_es": "la unidad r\u00edtmica b\u00e1sica de una pieza musical",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Root": {
+        "original": "Root",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground",
+        "definicion_es": "(bot\u00e1nica) \u00f3rgano generalmente subterr\u00e1neo que carece de yemas, hojas o nudos; absorbe agua y sales minerales; suele anclar la planta al suelo.",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Rhythm": {
+        "original": "Rhythm",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "the basic rhythmic unit in a piece of music",
+        "definicion_es": "la unidad r\u00edtmica b\u00e1sica de una pieza musical",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "reveal": {
+        "original": "reveal",
+        "nivel": "B2",
+        "pos": "verb",
+        "definicion_en": "make visible",
+        "definicion_es": "hacer visible",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2717",
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "disclose": {
+        "original": "disclose",
+        "nivel": "C1",
+        "pos": "verb",
+        "definicion_en": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+        "definicion_es": "dar a conocer al p\u00fablico informaci\u00f3n que antes s\u00f3lo conoc\u00edan unos pocos o que deb\u00eda mantenerse en secreto",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2717",
+            "\u2717",
+            "",
+            "",
+            "",
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Reveal": {
+        "original": "Reveal",
+        "nivel": "B2",
+        "pos": "verb",
+        "definicion_en": "make visible",
+        "definicion_es": "hacer visible",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "day": {
+        "original": "day",
+        "nivel": "A1",
+        "pos": "noun",
+        "definicion_en": "time for Earth to make a complete rotation on its axis",
+        "definicion_es": "tiempo que tarda la Tierra en dar una vuelta completa sobre su eje",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "revolution": {
+        "original": "revolution",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "a drastic and far-reaching change in ways of thinking and behaving",
+        "definicion_es": "un cambio dr\u00e1stico y profundo en la forma de pensar y actuar",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Revolution": {
+        "original": "Revolution ",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "a drastic and far-reaching change in ways of thinking and behaving",
+        "definicion_es": "un cambio dr\u00e1stico y profundo en la forma de pensar y actuar",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "retain": {
+        "original": "retain",
+        "nivel": "B2",
+        "pos": "verb",
+        "definicion_en": "hold back within",
+        "definicion_es": "contenerse dentro",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2717",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2717",
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Retain": {
+        "original": "Retain ",
+        "nivel": "B2",
+        "pos": "verb",
+        "definicion_en": "hold back within",
+        "definicion_es": "contenerse dentro",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "delay": {
+        "original": "delay",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "time during which some action is awaited",
+        "definicion_es": "tiempo durante el cual se espera alguna acci\u00f3n",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Delay": {
+        "original": "Delay",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "time during which some action is awaited",
+        "definicion_es": "tiempo durante el cual se espera alguna acci\u00f3n",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "Resort": {
+        "original": "Resort ",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "a hotel located in a resort area",
+        "definicion_es": "un hotel situado en una zona tur\u00edstica",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "requirement": {
+        "original": "requirement",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "required activity",
+        "definicion_es": "actividad requerida",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "relevant": {
+        "original": "relevant",
+        "nivel": "B2",
+        "pos": "adjective",
+        "definicion_en": "having a bearing on or connection with the subject at issue",
+        "definicion_es": "que tengan relaci\u00f3n o conexi\u00f3n con el asunto de que se trate",
+        "estado": "aprendida",
+        "repaso": [
+            "\u2713",
+            "\u2713",
+            "\u2713"
+        ]
+    },
+    "assembly": {
+        "original": "assembly",
+        "nivel": "C1",
+        "pos": "noun",
+        "definicion_en": "a group of machine parts that fit together to form a self-contained unit",
+        "definicion_es": "un grupo de piezas de una m\u00e1quina que encajan entre s\u00ed para formar una unidad aut\u00f3noma",
+        "estado": "buscada",
+        "repaso": [
+            "\u2713"
+        ]
+    },
+    "bail": {
+        "original": "bail",
+        "nivel": "C1",
+        "pos": "noun",
+        "definicion_en": "(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial",
+        "definicion_es": "(derecho penal) dinero que debe ser confiscado por el fiador si un acusado no comparece ante el tribunal para ser juzgado.",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "Bail": {
+        "original": "Bail ",
+        "nivel": "C1",
+        "pos": "noun",
+        "definicion_en": "(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial",
+        "definicion_es": "(derecho penal) dinero que debe ser confiscado por el fiador si un acusado no comparece ante el tribunal para ser juzgado.",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "Beam": {
+        "original": "Beam",
+        "nivel": "C1",
+        "pos": "noun",
+        "definicion_en": "a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather",
+        "definicion_es": "se\u00f1al transmitida a lo largo de una trayectoria estrecha; gu\u00eda a los pilotos de avi\u00f3n en la oscuridad o con mal tiempo.",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "behalf": {
+        "original": "behalf",
+        "nivel": "C1",
+        "pos": "noun",
+        "definicion_en": "as the agent of or on someone's part (usually expressed as  rather than )",
+        "definicion_es": "como agente de o por parte de alguien (suele expresarse como en lugar de )",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "take it easy": {
+        "original": "take it easy",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "\u274c No disponible para expresiones.",
+        "definicion_es": "\u274c No disponible para expresiones.",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "bizarre": {
+        "original": "bizarre",
+        "nivel": "C1",
+        "pos": "adjective",
+        "definicion_en": "conspicuously or grossly unconventional or unusual",
+        "definicion_es": "llamativa o manifiestamente poco convencional o inusual",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "bounce": {
+        "original": "bounce",
+        "nivel": "C1",
+        "pos": "verb",
+        "definicion_en": "spring back; spring away from an impact",
+        "definicion_es": "[ERROR]",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "take": {
+        "original": "take",
+        "nivel": "A1",
+        "pos": "verb",
+        "definicion_en": "carry out",
+        "definicion_es": "[ERROR]",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "run": {
+        "original": "run",
+        "nivel": "A2",
+        "pos": "noun",
+        "definicion_en": "a score in baseball made by a runner touching all four bases safely",
+        "definicion_es": "anotaci\u00f3n en b\u00e9isbol realizada por un corredor que toca las cuatro bases de forma segura",
+        "sinonimos_en": [
+            "campaign",
+            "ladder",
+            "running",
+            "test",
+            "trial"
+        ],
+        "estado": "buscada",
+        "repaso": []
+    },
+    "[No se pudo traducir: posible expresi\u00f3n no reconocida]": {
+        "original": "take it easy",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "\u274c No disponible para expresiones.",
+        "definicion_es": "[No se pudo traducir: posible expresi\u00f3n no reconocida]",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "TAKE": {
+        "original": "TAKE",
+        "nivel": "A1",
+        "pos": "verb",
+        "definicion_en": "carry out",
+        "definicion_es": "llevar a cabo",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "runs through the countryside": {
+        "original": "corre por el campo",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "\u274c No disponible para expresiones.",
+        "definicion_es": "\u274c No disponible para expresiones.",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "carry out": {
+        "original": " carry out",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "\u274c No disponible para expresiones.",
+        "definicion_es": "\u274c No disponible para expresiones.",
+        "estado": "buscada",
+        "repaso": []
+    },
+    "journal": {
+        "original": "journal",
+        "nivel": "B1",
+        "pos": "noun",
+        "definicion_en": "a daily written record of (usually personal) experiences and observations",
+        "definicion_es": "un registro escrito diario de experiencias y observaciones (normalmente personales)",
+        "sinonimos_en": [
+            "diary"
+        ],
+        "estado": "buscada",
+        "repaso": []
+    },
+    "take away": {
+        "original": "take away",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "\u274c No disponible para expresiones.",
+        "definicion_es": "\u274c No disponible para expresiones.",
+        "sinonimos_en": [],
+        "estado": "buscada",
+        "repaso": []
+    },
+    "beat": {
+        "original": "beat",
+        "nivel": "B2",
+        "pos": "noun",
+        "definicion_en": "a regular route for a sentry or policeman",
+        "definicion_es": "una ruta regular para un centinela o polic\u00eda",
+        "sinonimos_en": [
+            "measure",
+            "metre",
+            "pulse",
+            "rhythm",
+            "round"
+        ],
+        "estado": "buscada",
+        "repaso": []
+    },
+    "window": {
+        "original": "window",
+        "nivel": "A1",
+        "pos": "noun",
+        "definicion_en": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air",
+        "definicion_es": "armaz\u00f3n de madera o metal que contiene un cristal y est\u00e1 empotrado en un muro o tejado para dejar pasar la luz o el aire.",
+        "sinonimos_en": [],
+        "estado": "buscada",
+        "repaso": []
+    },
+    "abbey": {
+        "original": "abbey",
+        "nivel": "\u2014",
+        "pos": "\u2014",
+        "definicion_en": "a church associated with a monastery or convent",
+        "definicion_es": "una iglesia asociada a un monasterio o convento",
+        "sinonimos_en": [],
+        "estado": "buscada",
+        "repaso": []
+    }
+}
